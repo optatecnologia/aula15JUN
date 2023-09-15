@@ -1,2 +1,2 @@
 # aula15JUN
-* atividade faculdade
+atividade faculdade
